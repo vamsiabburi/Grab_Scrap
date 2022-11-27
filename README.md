@@ -47,10 +47,7 @@ As a result, this project will prove to be extremely vital for in upholding the 
   - [**Drive**](https://developers.google.com/drive/api/v3/about-sdk) - Product Image
 - [**Node Js**](https://nodejs.org/en/about/) - Back-end Framework
 
-## _Authors_
+## _Author_
 
-- [**_Gokul R_**](https://github.com/gokul2507)
-- [**_Harish Kumar R J_**](https://github.com/Harish-Kumar-R-J)
-- [**_Dincy V D_**](https://github.com/Dincy89)
-- [**_Sowmya V_**](https://github.com/vsowmyasv)
-- [**_Shakthi A S_**](https://github.com/shakthi-26)
+- [**_Abburi Vamsi_**](https://github.com/vamsiabburi)
+
